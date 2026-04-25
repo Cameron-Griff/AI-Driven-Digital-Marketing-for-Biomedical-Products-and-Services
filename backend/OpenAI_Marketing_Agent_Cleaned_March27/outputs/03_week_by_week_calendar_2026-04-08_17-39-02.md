@@ -1,0 +1,24 @@
+# 3) Week-by-Week Content Calendar
+
+| Week | Theme / Focus | Website (hero / landing) | Social (IG / TikTok / FB) | Email | Events / Community | Paid Focus | KPI |
+|---|---:|---|---|---|---|---|---|
+| Week 1 | Launch: “Which Set?” + Hero Video | Publish “Which Set?” quiz landing; hero video A/B test (community vs. product) | Teaser Reels: “Which set are you?” + challenge announcement; Stories poll | Welcome series live (Email 1 of 3) | Recruit 10 local ambassadors (announced) | Prospecting: broad awareness (TikTok+Meta) | Quiz completions, hero CTR, new email signups |
+| Week 2 | Product Education | Add tier comparison on home + Titan spotlight page | Reels: Titan durability test; entry-level “first spike” clip | Welcome email 2 (tier guide + quiz link) | Ambassador onboarding kickoff | Search shopping live + ROAS baseline | Time on page, add-to-cart rate |
+| Week 3 | Community UGC Push | UGC gallery block on product pages | UGC reposts daily; launch #PlayAnywhere challenge on TikTok | Cart-abandon flow live | Host first local demo (ambassador-led) | Retarget site visitors with dynamic ads | UGC submissions, retarget CTR |
+| Week 4 | PE & Schools | Publish PE program page + downloadable curriculum | IG Guide: PE lesson plan; teacher testimonial Reel | Email: teacher outreach blast (special educator code) | Outreach to 50 local schools | Paid: PE-audience prospecting on FB | Teacher leads, downloads, educator code redemptions |
+| Week 5 | Promo Push: Bundle Offers | Limited-time bundle landing (set + case) | Reels + Stories promoting bundle; customer testimonial video | Promotional email: bundle offer | Local event signups open for month 2 | Prospecting: bundle-focused creatives | Bundle sales, AOV |
+| Week 6 | Retarget & Social Proof | Add reviews carousel + video testimonials | Reels: tournament highlight; IG Live Q&A with founder | Post-purchase flow (Email 1) live | First group tournament (pilot) | Retarget previous viewers & cart abandoners | Conversion rate uplift, ROAS |
+| Week 7 | Titan Spotlight (premium) | Titan page update with performance specs & demo | Series of Titan “mythbusting” clips (durability, pro play) | Email: Titan focus (benefits + testimonials) | Recruit 5 tournament organizers | Paid: higher-bid for Titan shoppers | Titan sales % of total |
+| Week 8 | Mid-campaign Community Drive | Events hub updated with upcoming calendar | UGC contest: share your best spike — win beginner or Titan kit | Email: community invite + event roundup | Support 4 regional events | Prospecting + event registration ads | Event RSVPs, contest entries |
+| Week 9 | International Push | Currency/local shipping FAQs added | Region-specific reels (AU/EU snapshots) | Email: localized offers for AU/EU | Partner retail outreach (in-region) | Geo-targeted search & social | Intl sessions, conversions by region |
+| Week 10 | Education & How-Tos | Publish “How to Play” video series on product pages | How-to clips: serve, scoring, common mistakes; Stories tutorial highlights | Post-purchase flow (Email 3: how-to & community invite) | Host PE webinar for teachers | Retargeting + lookalike expansion | Tutorial engagement, webinar signups |
+| Week 11 | Ambassador & Influencer Week | Ambassador spotlight section on site | Influencer takeover content across days; shareable event promos | Email: influencer-recommended picks + promo codes | Ambassadors host local meetups | Paid boosts of top-performing influencer posts | Promo-code conversions, influencer-driven traffic |
+| Week 12 | Closing Push & Learnings | Campaign landing recap + best-sellers spotlight; CRO checklist | Compilation reel: best plays; CTA to shop + join a tournament | Campaign wrap email: last-chance offers + survey | Big local event / tournament finale | High-intent retargeting (cart + product viewers) | Quarter revenue, email list net growth, event total signups |
+
+Notes on execution and owners
+- Owners: Growth = paid & analytics; Content = creative production for social + site; Community = ambassadors, events, PE outreach; Ops = retail & fulfillment.  
+- CTAs across channels: “Find your set” (quiz), “Shop Titan” (premium), “Host a meetup” (organizers), “Join local play” (community).  
+- Measurement cadence: Weekly KPI check-ins (top metrics), deep performance review at week 6 and final week 12.  
+- Quick tests to run early: hero creative A/B, promo vs. non-promo messaging, quiz placement effect on conversion.
+
+If you want, I can convert this into a downloadable brief (PDF) or produce suggested ad copy and 6 creative briefs for reels and hero videos aligned to the calendar.

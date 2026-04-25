@@ -1,0 +1,17 @@
+URL: https://www.e-hospital.ca/LogIn
+
+BODY TEXT:
+Select a role
+Admin
+Patient
+Doctor
+Hospital
+Clinic Staff
+Pharmaceutical Office
+E-Pharmacy
+Pharmacy-Admin
+Clinical Reasoning
+Remember me
+Login
+
+Don’t have an account? Sign up
